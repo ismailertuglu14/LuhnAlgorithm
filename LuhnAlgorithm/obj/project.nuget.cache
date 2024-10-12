@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnsC9ETUrdw5F5c2SUI4lr2a02vuwgn6YwIwjS8oqLI6OWvDG31jIvvU7Ntyp0zFhnfStc2ICB9jJDltxUh7fQ==",
+  "success": true,
+  "projectFilePath": "/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/LuhnAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "/Users/ismailertuglu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ismailertuglu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ismailertuglu/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

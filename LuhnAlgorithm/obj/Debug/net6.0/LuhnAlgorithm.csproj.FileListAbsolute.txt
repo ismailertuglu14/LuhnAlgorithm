@@ -1,0 +1,15 @@
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/bin/Debug/net6.0/LuhnAlgorithm
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/bin/Debug/net6.0/LuhnAlgorithm.deps.json
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/bin/Debug/net6.0/LuhnAlgorithm.runtimeconfig.json
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/bin/Debug/net6.0/LuhnAlgorithm.dll
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/bin/Debug/net6.0/LuhnAlgorithm.pdb
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/obj/Debug/net6.0/LuhnAlgorithm.csproj.AssemblyReference.cache
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/obj/Debug/net6.0/LuhnAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/obj/Debug/net6.0/LuhnAlgorithm.AssemblyInfoInputs.cache
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/obj/Debug/net6.0/LuhnAlgorithm.AssemblyInfo.cs
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/obj/Debug/net6.0/LuhnAlgorithm.csproj.CoreCompileInputs.cache
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/obj/Debug/net6.0/LuhnAlgorithm.dll
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/obj/Debug/net6.0/refint/LuhnAlgorithm.dll
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/obj/Debug/net6.0/LuhnAlgorithm.pdb
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/obj/Debug/net6.0/LuhnAlgorithm.genruntimeconfig.cache
+/Users/ismailertuglu/Projects/LuhnAlgorithm/LuhnAlgorithm/obj/Debug/net6.0/ref/LuhnAlgorithm.dll

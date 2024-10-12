@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LuhnAlgorithm/1.0.0": {
+        "runtime": {
+          "LuhnAlgorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LuhnAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
